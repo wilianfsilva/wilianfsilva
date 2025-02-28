@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wilianfsilva
-- 👀 I´m currently working as a front-end developer.
+- 👀 I´m currently studying  software engineer
 - 🌱 I’m learning Typescript / Angular and React
 - 📫 That is my e-mail; (s.wilianferreira.83@gmail.com) feel free to reach out if you need any information.
 - ⚡ Learning is a process, doesn't mean that will be easy. Don't stop now.
