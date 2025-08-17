@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou o Wilian Ferreira da Silva  
+# 👋 Hi, I'm Wilian Ferreira da Silva  
 
-💻 Desenvolvedor Front-end apaixonado por tecnologia e resolução de problemas.  
-🚀 Atualmente explorando projetos com **React** e **Angular**.  
+💻 Front-end developer passionate about technology and problem-solving.  
+🚀 Currently working on projects with **React** and **Angular**.  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+## 🛠️ Tech Stack  
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -17,7 +17,16 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📌 Featured Projects  
+
+- 🔗 [**Project 1**](https://github.com/wilianfsilva/project-1) — Short description of what this project does.  
+- 🔗 [**Project 2**](https://github.com/wilianfsilva/project-2) — Another highlighted project with its purpose.  
+- 🔗 [**Project 3**](https://github.com/wilianfsilva/project-3) — Something cool you’ve built.  
+
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilianfsilva&show_icons=true&theme=radical" />
@@ -26,11 +35,11 @@
 
 ---
 
-## 🌐 Onde me encontrar  
+## 🌐 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/wilian-ferreira-da-silva-2a581336)  
-- 🎮 [Twitch](https://www.twitch.tv/jinxstormgaming)  
+ 
 
 ---
 
-✨ “A cada linha de código, uma nova oportunidade de criar algo incrível.”  
+✨ *"Every line of code is a new opportunity to create something amazing."* 
